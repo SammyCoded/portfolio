@@ -1,0 +1,293 @@
+body{
+  background-color:bisque;
+}
+.Overlap{
+  border: 2px solid white;
+  height:60px;
+  background-color: white;
+  display:flex;
+  color:black;
+  align-items:center ;
+  margin-left: 70px;
+  margin-right:70px;
+  margin-top: 30px;
+  border-radius:10px;
+}
+.Mayeloye{
+ padding-left:20px;
+  font-weight:bolder;
+
+}
+.links{
+  display: flex;
+ padding-left:750px;
+ gap:30px;
+}
+.link1, .link2, .link3{
+  text-decoration:none;
+  color:purple;
+ 
+}
+.buttonlink5{
+  background-color:rgb(255, 115, 0);
+  height:35px;
+  border-radius:5px;
+
+}
+.link4{
+  text-decoration:none;
+  color:white;
+}
+.change{
+  display: flex;
+  
+}
+.flex{
+  display:flex; 
+}
+
+.changetext{
+  color:orange;
+  padding-left: 80px;
+  padding-top: 50px;
+  font-size: 200%;
+ 
+}
+.link1:hover{
+ color:black;
+ font-weight: bolder;
+} 
+.link2:hover{
+  color:black;
+  font-weight: bolder;
+ } 
+ .link3:hover{
+  color:black;
+  font-weight: bolder;
+ }
+ .link4:hover{
+  color:black;
+  font-weight: bolder;
+ }
+ .intro{
+  font-weight:bolder;
+  font-size:60px;
+  padding-left:40px;
+  float:left
+ }
+.explain{
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ padding-left:40px;
+}
+.buttonlink6{
+  background-color:rgb(255, 115, 0);
+  height:35px;
+  border-radius:5px;
+  margin-left:40px;
+  align-items: center;
+  width:120px;
+
+}
+.link7{
+  text-decoration:none;
+  color:white;
+  
+}
+
+.Overlap2{
+  border: 2px ;
+  display:flex;
+  margin-top:70px;
+  height:150px;
+  justify-content: center;
+  align-content:30px;
+}
+.left-side{
+  background-color:white;
+  border-radius: 50%;
+  width:600px;
+  height:60px;
+
+}
+
+.work{
+  padding-left:170px;
+  font-weight: bolder;
+}
+.belowclient{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+}
+.imgcomp, .imgcomp2, .imgcomp3,.imgcomp4,.imgcomp5{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+} 
+
+.fbgc{
+  background-color:white;
+  height: 1100px;
+  padding-left:45px;
+ 
+}
+
+.column{
+ display: flex;
+ 
+}
+
+.flex{
+  display:flex ;
+
+}
+
+.imgprofile{
+  width: 200px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 300px;
+  margin-top:90px;
+}
+.firstsec{
+  margin-top: 70px;
+  float: right;
+  border:2px solid none;
+  width:2000px;
+  height:470px;
+  background-color: rgba(255, 192, 203, 0.363);
+  border-radius:2%;
+
+}
+.secondsec{
+  float:left;
+  border:2px solid none;
+  width:2000px;
+  height:500px;
+  background-color: white;
+}
+.section{
+  display: flex;
+}
+.one{
+  margin-top: 20px;
+  border:2px solid none;
+  height:120px;
+  margin-right: 40px;
+  margin-left: 40px;
+  background-color: white;
+  cursor:pointer;
+  display:flex;
+  align-items: center;
+  
+}
+.two{
+  border:2px solid none;
+  height:120px;
+  margin-right: 40px;
+  margin-left: 40px;
+  background-color: white;
+  cursor:pointer;
+  display:flex;
+  align-items: center;
+}
+.three{
+  border:2px solid white none;
+  height:120px;
+  margin-right: 40px;
+  margin-left: 40px;
+  background-color: white;
+  cursor:pointer;
+  display:flex;
+  align-items: center;
+}
+.avawriteup{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left:3%;
+  
+}
+.one:hover{
+  border:12px solid goldenrod;
+  border-radius:5px;
+}
+.two:hover{
+  border:12px solid goldenrod;
+  border-radius: 5px;
+}
+.three:hover{
+  border:12px solid goldenrod;
+  border-radius: 5px;
+}
+.services{
+  color:rgb(255, 115, 0);
+}
+.containerawesome{
+  margin-top:130px;
+  margin-left: 50px;
+}
+.buttonlink9{
+  background-color:rgb(255, 115, 0);
+  height:45px;
+  border-radius:5px;
+  width:130px;
+}
+.recent{
+  color:navy; 
+ 
+}
+.projectflex{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+}
+.imgcomp6, .imgcomp7, .imgcomp8{
+  object-fit: cover;
+  height:250px;
+  width:250px;
+  border-radius:5%;
+}
+.columndev{
+  margin-left:20px;
+  color:black;
+  font-size:9px;
+}
+.dev{
+  text-decoration: none;
+}
+.imgcomp6:hover{
+  height:300px;
+  width:300px;
+}
+.imgcomp7:hover{
+  height:300px;
+  width:300px;
+}
+.imgcomp8:hover{
+  height:300px;
+  width:300px;
+}
+.social{
+  display:flex;
+  margin-left:1220px;
+  gap:5%;
+}
+.socialimg{
+  width:20px;
+}
+.copy{
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-top: 1px solid #e7e7e7;
+  position: relative;
+  bottom: 0;
+  width: 26%;
+}
